@@ -1,0 +1,15 @@
+{
+  "name": "3.class-wrapper",
+  "version": "1.0.0",
+  "description": "The Mocha test sample integrated with Report Portal using Axios.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["mocha", "report portal", "test", "axios"],
+  "author": "Hui",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "mocha": "^10.4.0"
+  }
+}

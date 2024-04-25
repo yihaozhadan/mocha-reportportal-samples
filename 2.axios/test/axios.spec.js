@@ -1,4 +1,4 @@
-var assert = require("assert");
+const assert = require("assert");
 const axios = require("axios");
 
 const REPORTPORTAL_URL = "http://localhost:8080";
