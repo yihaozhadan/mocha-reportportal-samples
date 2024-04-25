@@ -1,13 +1,12 @@
 {
-  "name": "mocha-reportportal-samples",
+  "name": "1.basic",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "The fundamental Mocha test sample integrated with Report Portal.",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["mocha", "report portal", "test"],
+  "author": "Hui",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^10.4.0"
