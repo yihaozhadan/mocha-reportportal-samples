@@ -2,7 +2,7 @@ const axios = require("axios");
 
 const REPORTPORTAL_URL = "http://localhost:8080";
 const REPORTPORTAL_API_KEY =
-  "poc_4DaW0uOqRYSDcu-vaIWNYQzMWUhobNTTK7fD8wvVg8UEciK5_zcnZdBvukskIaSc";
+  "{{the report portal api key}}";
 const REPORTPORTAL_PROJECT = "poc";
 
 module.exports = class ReportPortal {

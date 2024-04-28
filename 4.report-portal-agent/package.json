@@ -1,0 +1,16 @@
+{
+  "name": "4.report-portal-agent",
+  "version": "1.0.0",
+  "description": "The Mocha test sample integrated with Report Portal agent-js-mocha.",
+  "main": "runner.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["mocha", "report portal", "test", "agent-js-mocha"],
+  "author": "Hui",
+  "license": "ISC",
+  "dependencies": {
+    "@reportportal/agent-js-mocha": "^5.0.4",
+    "mocha": "^10.4.0"
+  }
+}
